@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pdftotext -layout \"/home/xqw/xqw-file/class/doc/sensor2/二-1\\.传感器误差理论和误差分析\\.pdf\" -$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

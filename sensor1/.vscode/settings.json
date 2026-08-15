@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^which pdftotext && pdftotext -layout \"/home/xqw/xqw-file/class/doc/sensor1/传感器的概念、组成、分类、发展-0301\\.pdf\" -$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
